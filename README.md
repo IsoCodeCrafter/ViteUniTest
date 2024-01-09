@@ -1,4 +1,6 @@
-//You should install these libraries for test imp.
+# ViteUniTest
+
+// The libraries You should install for test
 
 // npm install -D @testing-library/jest-dom
 // npm install -D @testing-library/react
@@ -8,4 +10,6 @@
 
 //You need vite.config.js file
 //add "test": "vitest" package.json script section
-# ViteUniTest
+
+
+
